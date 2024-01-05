@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "@google-cloud/local-auth": "^2.1.0",
+    "base-64": "^1.0.0",
+    "cheerio": "^1.0.0-rc.12",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "googleapis": "^105.0.0",
+    "mailparser": "^3.6.6",
+    "moment": "^2.30.1",
+    "node-cron": "^3.0.3"
+  },
+  "name": "avantika_q",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
